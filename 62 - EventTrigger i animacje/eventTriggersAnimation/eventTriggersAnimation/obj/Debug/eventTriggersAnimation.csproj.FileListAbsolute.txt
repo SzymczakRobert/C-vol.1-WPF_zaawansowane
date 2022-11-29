@@ -1,0 +1,15 @@
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\bin\Debug\eventTriggersAnimation.exe.config
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\bin\Debug\eventTriggersAnimation.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\bin\Debug\eventTriggersAnimation.pdb
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\obj\Debug\MainWindow.g.cs
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\obj\Debug\App.g.cs
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\obj\Debug\eventTriggersAnimation_MarkupCompile.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\obj\Debug\eventTriggersAnimation_MarkupCompile.lref
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\obj\Debug\MainWindow.baml
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\obj\Debug\eventTriggersAnimation.g.resources
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\obj\Debug\eventTriggersAnimation.Properties.Resources.resources
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\obj\Debug\eventTriggersAnimation.csproj.GenerateResource.Cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\obj\Debug\eventTriggersAnimation.csproj.CoreCompileInputs.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\obj\Debug\eventTriggersAnimation.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\obj\Debug\eventTriggersAnimation.pdb
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\62 - EventTrigger i animacje\eventTriggersAnimation\eventTriggersAnimation\obj\Debug\eventTriggersAnimation.csprojAssemblyReference.cache

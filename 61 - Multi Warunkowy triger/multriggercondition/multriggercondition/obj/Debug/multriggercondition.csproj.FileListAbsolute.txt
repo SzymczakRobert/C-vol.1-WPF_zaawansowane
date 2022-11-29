@@ -1,0 +1,15 @@
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\bin\Debug\multriggercondition.exe.config
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\bin\Debug\multriggercondition.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\bin\Debug\multriggercondition.pdb
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\obj\Debug\multriggercondition.csprojResolveAssemblyReference.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\obj\Debug\MainWindow.g.cs
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\obj\Debug\App.g.cs
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\obj\Debug\multriggercondition_MarkupCompile.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\obj\Debug\multriggercondition_MarkupCompile.lref
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\obj\Debug\MainWindow.baml
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\obj\Debug\multriggercondition.g.resources
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\obj\Debug\multriggercondition.Properties.Resources.resources
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\obj\Debug\multriggercondition.csproj.GenerateResource.Cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\obj\Debug\multriggercondition.csproj.CoreCompileInputs.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\obj\Debug\multriggercondition.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\61 - Multi Warunkowy triger\multriggercondition\multriggercondition\obj\Debug\multriggercondition.pdb

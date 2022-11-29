@@ -1,0 +1,16 @@
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\bin\Debug\DataTrigger.exe.config
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\bin\Debug\DataTrigger.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\bin\Debug\DataTrigger.pdb
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\DataTrigger.csprojResolveAssemblyReference.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\MainWindow.g.cs
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\App.g.cs
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\DataTrigger_MarkupCompile.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\DataTrigger_MarkupCompile.lref
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\MainWindow.baml
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\DataTrigger.g.resources
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\DataTrigger.Properties.Resources.resources
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\DataTrigger.csproj.GenerateResource.Cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\DataTrigger.csproj.CoreCompileInputs.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\DataTrigger.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\DataTrigger.pdb
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\64 - DataTrigger\DataTrigger\DataTrigger\obj\Debug\GeneratedInternalTypeHelper.g.cs

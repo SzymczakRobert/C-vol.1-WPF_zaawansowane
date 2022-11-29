@@ -1,0 +1,34 @@
+﻿<Window x:Class="multriggercondition.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:multriggercondition"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <StackPanel.Resources>
+            <Style TargetType="{x:Type TextBox}">
+                <Style.Triggers>
+                    <MultiTrigger>
+                        
+                        <!-- Te dwie rzeczy muszą byc spełnione żeby paliło sie naprzykład na zółto !!   -->
+                        
+                        <MultiTrigger.Conditions>
+                            <Condition Property="IsKeyboardFocused" Value="true"/>
+                            <Condition Property="IsMouseOver"  Value="True"/>
+                        </MultiTrigger.Conditions>
+                    
+                        <Setter Property="Background" Value="Yellow"/>
+                        
+                    </MultiTrigger>
+                </Style.Triggers>
+            </Style>
+        </StackPanel.Resources>
+        
+        
+        <TextBox>test</TextBox>
+        <TextBox>test</TextBox>
+        <TextBox>test</TextBox>
+    </StackPanel>
+</Window>

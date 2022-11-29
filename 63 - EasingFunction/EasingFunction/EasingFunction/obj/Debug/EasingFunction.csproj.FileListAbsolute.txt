@@ -1,0 +1,15 @@
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\bin\Debug\EasingFunction.exe.config
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\bin\Debug\EasingFunction.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\bin\Debug\EasingFunction.pdb
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\obj\Debug\EasingFunction.csprojResolveAssemblyReference.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\obj\Debug\MainWindow.g.cs
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\obj\Debug\App.g.cs
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\obj\Debug\EasingFunction_MarkupCompile.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\obj\Debug\EasingFunction_MarkupCompile.lref
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\obj\Debug\MainWindow.baml
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\obj\Debug\EasingFunction.g.resources
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\obj\Debug\EasingFunction.Properties.Resources.resources
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\obj\Debug\EasingFunction.csproj.GenerateResource.Cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\obj\Debug\EasingFunction.csproj.CoreCompileInputs.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\obj\Debug\EasingFunction.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\63 - EasingFunction\EasingFunction\EasingFunction\obj\Debug\EasingFunction.pdb

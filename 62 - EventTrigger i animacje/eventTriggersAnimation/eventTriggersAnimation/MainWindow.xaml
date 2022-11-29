@@ -1,0 +1,80 @@
+﻿<Window x:Class="eventTriggersAnimation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:eventTriggersAnimation"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <TextBlock>To jest testowy tekst
+            <TextBlock.Resources>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Duration="0:0:0.400" 
+                                                     Storyboard.TargetProperty="FontSize"
+                                                     To="30"
+                                                     RepeatBehavior="2x"/>
+                                    <!--RepeatBehavior="Forever"
+                                    teraz będzie w nieskończoność wywijać tekstem 
+                                    
+                                    Należy pamiętać że animacje nie są powiązane z event triggerami -->
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Duration="0:0:0.700" 
+                                                     Storyboard.TargetProperty="FontSize"/>
+                                    <!--tu pixele wywalamy-->
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+                
+            </TextBlock.Resources>
+        
+        </TextBlock>
+
+
+        <Border BorderThickness="1" BorderBrush="Beige">
+            <Border.Style>
+                <Style TargetType="{x:Type Border}">
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Trigger.EnterActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ThicknessAnimation Duration="0:0:0.400" To="5" Storyboard.TargetProperty="BorderThickness"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.EnterActions>
+                            <Trigger.ExitActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ThicknessAnimation Duration="0:0:0.400"  Storyboard.TargetProperty="BorderThickness"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.ExitActions>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+                    
+            </Border.Style>
+            <TextBox Padding="5">Testowy tekst</TextBox>
+
+
+        </Border>
+        <TextBox>Reszte fajnie opisał w kursie 66 na tle MSDN-a </TextBox>
+        <TextBox>Informacje typu : Begin, Pause, Resum, Seek, Skip to fill, SetSpeedRatio i StopButton</TextBox>
+    </StackPanel>
+    <!--To jest wersja rozbudowana i lepiej sie tego trzymać ponieważ jest to bardziej czytelne
+    można to jeszcze po upraszczać ale i wstępnie odwołać się w stylach do poszczególnych typów
+    mając na uwadze że będzie to odnosiło się do całości(textblock, textbox itp.), jak również kod w trigerach jest do uproszczenia
+    ale lepie przez co niby jest czytelniejszy ale odnosi się zbyt wiele razy do defoultowych wartośći-->
+</Window>
