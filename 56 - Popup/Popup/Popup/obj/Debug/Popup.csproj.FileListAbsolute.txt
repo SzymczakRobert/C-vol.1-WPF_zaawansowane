@@ -1,0 +1,15 @@
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\obj\Debug\MainWindow.g.cs
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\obj\Debug\App.g.cs
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\obj\Debug\Popup_MarkupCompile.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\obj\Debug\Popup_MarkupCompile.lref
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\bin\Debug\Popup.exe.config
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\bin\Debug\Popup.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\bin\Debug\Popup.pdb
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\obj\Debug\MainWindow.baml
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\obj\Debug\Popup.g.resources
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\obj\Debug\Popup.Properties.Resources.resources
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\obj\Debug\Popup.csproj.GenerateResource.Cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\obj\Debug\Popup.csproj.CoreCompileInputs.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\obj\Debug\Popup.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\obj\Debug\Popup.pdb
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\56 - Popup\Popup\Popup\obj\Debug\Popup.csprojAssemblyReference.cache

@@ -1,0 +1,114 @@
+﻿<Window x:Class="GroopBoxIRadioButon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GroopBoxIRadioButon"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="290">
+    <StackPanel Margin="0,20,0,0">
+
+        <StackPanel.Resources>
+            <Style TargetType="{x:Type ToggleButton}" x:Key="onoftogglebutton">
+                <Setter Property="Content" Value="On"/>
+
+                <Style.Triggers>
+                    <Trigger Property="IsChecked" Value="True">
+                        <Setter Property="Content" Value="Off"/>
+                    </Trigger>
+
+                </Style.Triggers>
+            </Style>
+
+        </StackPanel.Resources>
+        <ToggleButton Style="{StaticResource onoftogglebutton}"/>
+
+        <!--    mamy tu odniesienie do poprzedniego przykładu zawsze można porównać     -->
+
+        <ToggleButton 
+            x:Name="ToggleButton" Background="Black" Foreground="White" 
+            IsChecked="{Binding ElementName=popik,Path=IsOpen}">
+            <!--        pamiętać usunąć nazwe przed wpisywaniem trigera  -->
+            <ToggleButton.Style>
+                <Style TargetType="{x:Type ToggleButton}">
+                    <Setter Property="Content" Value="Pokaż ankietę"/>
+                    <Setter Property="FontSize" Value="25"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsChecked" Value="True">
+                            <Setter Property="Content" Value="Ukryj ankietę"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                        </Trigger>
+
+                    </Style.Triggers>
+                </Style>
+            </ToggleButton.Style>
+        </ToggleButton>
+
+        <Popup x:Name="popik" AllowsTransparency="True" PlacementTarget="{Binding ElementName=ToggleButton}">
+
+            <StackPanel Width="270">
+                <StackPanel.Resources>
+                    <Style TargetType="{x:Type GroupBox}" x:Key="Przykladowiec">
+                        <!--w tym miejscu należy pamiętać o kluczu żeby to dalej wywoływać dla danych rzeczy-->
+
+                        <Setter Property="Foreground" Value="White"></Setter>
+                        <Setter Property="HeaderTemplate">
+                            <Setter.Value>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding}" Background="Black" FontWeight="Bold" Padding="1"></TextBlock>
+
+                                    <!--mając to kolejne powielenia bolda bedą opisywane jako "System.windows.."
+                                    po czym można usunąc grupe box headera i bawic się tą templetka dla wszytskich grup
+                                    lub umieszczać w odpowiednich panelach typu:"stack, dock, etc...
+                                    
+                                    Tego szukam w opcjach Seter property albo na msdn-ie
+                                    -->
+
+                                </DataTemplate>
+                            </Setter.Value>
+                        </Setter>
+                        <!--Przyklady seteradla obramówki-->
+                        <Setter Property="BorderThickness" Value="2"></Setter>
+                        <Setter Property="BorderBrush" Value="Black"></Setter>
+                    </Style>
+                </StackPanel.Resources>
+
+                <!--pierwszy możliwy sposób wywołania = tu jest chyba automatycznie resource key jak poniżej-->
+                <GroupBox  Margin="5" Header="Ile dziennie śpisz ?" Style="{StaticResource Przykladowiec}">
+
+                    <StackPanel Margin="5,0,0,0">
+                        <Label>Ile dziennie śpisz ???</Label>
+                        <RadioButton>wcale</RadioButton>
+                        <RadioButton>1-3h</RadioButton>
+                        <RadioButton>3-8</RadioButton>
+                        <RadioButton>24h</RadioButton>
+                    </StackPanel>
+                </GroupBox>
+
+                <!--drugi możliwy sposób wywołania z resourcekey -->
+                <GroupBox  Margin="5" Header="Ile dziennie grasz ?" Style="{StaticResource ResourceKey=Przykladowiec}">
+
+                    <StackPanel Margin="5,0,0,0">
+                        <Label>Ile dziennie grasz?</Label>
+                        <RadioButton>1-3h</RadioButton>
+                        <RadioButton >3-5h</RadioButton>
+                        <RadioButton>5-8h</RadioButton>
+                        <RadioButton x:Name="wincyj" Width="250" Background="Aqua">
+                            <WrapPanel x:Name="test" Width="50" MaxWidth="150" >
+                                <Label>więcej:</Label>
+                                <Popup IsOpen="{Binding ElementName=wincyj, Path=IsChecked}" Placement="Right" 
+                               PopupAnimation="Scroll" AllowsTransparency="True" 
+                               PlacementTarget="{Binding ElementName=test}"
+                               VerticalOffset="5" 
+                               HorizontalOffset="-8" >
+                                    <TextBox  MinWidth="100" ></TextBox>
+                                </Popup>
+                            </WrapPanel>
+                        </RadioButton>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+        </Popup>
+
+    </StackPanel>
+</Window>
