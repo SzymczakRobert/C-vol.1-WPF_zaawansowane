@@ -1,0 +1,21 @@
+﻿<Application x:Class="Zasoby_aplikacji.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local ="clr-namespace:DataContext_INotifyPr"
+             StartupUri="MainWindow.xaml">
+             
+    <Application.Resources>
+            <!--  tu możemy ustawić jakieś właściwosći na samym starcie dla localnego obiektu jak pokazane poniżej dla przykładu mazak!!!
+            -->
+
+            <local:InkEditingModes x:Key="editingModes" EditingMode="EraseByPoint"/>
+        
+        
+            <!--Stworzyliśmy =>  InkEditingModes editing modes = new InkEditingModes;
+            czyli instancję tego obiektu w tym miejscu   
+            Resources możemy ustawić gdzie chcemy np w App.xaml w drzewku   
+            trzeba dokleić data context inotifi z clr-em-->
+
+       
+    </Application.Resources>
+</Application>

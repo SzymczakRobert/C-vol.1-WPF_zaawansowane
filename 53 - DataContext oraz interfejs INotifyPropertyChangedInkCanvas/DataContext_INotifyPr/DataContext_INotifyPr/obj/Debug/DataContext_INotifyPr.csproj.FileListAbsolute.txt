@@ -1,0 +1,15 @@
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\bin\Debug\DataContext_INotifyPr.exe.config
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\bin\Debug\DataContext_INotifyPr.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\bin\Debug\DataContext_INotifyPr.pdb
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\obj\Debug\MainWindow.g.cs
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\obj\Debug\App.g.cs
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\obj\Debug\DataContext_INotifyPr_MarkupCompile.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\obj\Debug\DataContext_INotifyPr_MarkupCompile.lref
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\obj\Debug\MainWindow.baml
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\obj\Debug\DataContext_INotifyPr.g.resources
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\obj\Debug\DataContext_INotifyPr.Properties.Resources.resources
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\obj\Debug\DataContext_INotifyPr.csproj.GenerateResource.Cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\obj\Debug\DataContext_INotifyPr.csproj.CoreCompileInputs.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\obj\Debug\DataContext_INotifyPr.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\obj\Debug\DataContext_INotifyPr.pdb
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\53 - DataContext oraz interfejs INotifyPropertyChangedInkCanvas\DataContext_INotifyPr\DataContext_INotifyPr\obj\Debug\DataContext_INotifyPr.csprojAssemblyReference.cache

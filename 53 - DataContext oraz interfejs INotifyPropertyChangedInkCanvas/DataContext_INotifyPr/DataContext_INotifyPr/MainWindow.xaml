@@ -1,0 +1,30 @@
+﻿<Window x:Class="DataContext_INotifyPr.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataContext_INotifyPr"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <DockPanel>
+       <!-- <StackPanel Width="50">
+            <Button x:Name="Selection" Content="Select" Click="Selection_Click"/>
+            <Button x:Name="Drawing" Content="Draw" Click="Drawing_Click"/>
+            
+
+        </StackPanel>
+        <InkCanvas x:Name="inkCanvas" EditingMode="Select"></InkCanvas>
+        
+        Banalny sposób !!
+        -->
+        <StackPanel Width="50">
+            <Button x:Name="Selection" Content="Select" Click="Selection_Click"/>
+            <Button x:Name="Drawing" Content="Draw" Click="Drawing_Click"/>
+
+
+        </StackPanel>
+        <InkCanvas x:Name="inkCanvas" EditingMode="{Binding Path=EditingMode}"></InkCanvas>
+
+
+    </DockPanel>
+</Window>

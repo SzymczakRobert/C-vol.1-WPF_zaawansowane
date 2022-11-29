@@ -1,0 +1,7 @@
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\52 - EventyIDelegaty\EventyIDelegaty\EventyIDelegaty\bin\Debug\EventyIDelegaty.exe.config
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\52 - EventyIDelegaty\EventyIDelegaty\EventyIDelegaty\bin\Debug\EventyIDelegaty.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\52 - EventyIDelegaty\EventyIDelegaty\EventyIDelegaty\bin\Debug\EventyIDelegaty.pdb
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\52 - EventyIDelegaty\EventyIDelegaty\EventyIDelegaty\obj\Debug\EventyIDelegaty.csproj.CoreCompileInputs.cache
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\52 - EventyIDelegaty\EventyIDelegaty\EventyIDelegaty\obj\Debug\EventyIDelegaty.exe
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\52 - EventyIDelegaty\EventyIDelegaty\EventyIDelegaty\obj\Debug\EventyIDelegaty.pdb
+C:\Users\roszy\Desktop\Kurs\WPF - zaawansowany\52 - EventyIDelegaty\EventyIDelegaty\EventyIDelegaty\obj\Debug\EventyIDelegaty.csprojAssemblyReference.cache

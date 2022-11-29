@@ -1,0 +1,51 @@
+﻿<Window x:Class="DataContext_INotifyPr.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local ="clr-namespace:DataContext_INotifyPr"
+        mc:Ignorable="d"
+        
+        
+        
+        Title="MainWindow" Height="350" Width="525" >
+    <!-- DataContext="{StaticResource editingModes}"-->
+    
+    <!--    Static jest wczytany tylko raz na samym starcie-->
+    
+    
+    <!--    xmlns:local="clr-namespace:DataContext_INotifyPr"   
+        to dodało z automatu ;/  ale to należy dodać w tym przykładzie
+        ręcznie aby odnieść się do zasobów/namespace  lokalnie   -->
+    
+    <!--
+    <Window.Resources>
+
+        <local:InkEditingModes x:Key="editingModes"/>
+        Stworzyliśmy =>  InkEditingModes editing modes = new InkEditingModes;
+            czyli instancję tego obiektu w tym miejscu   
+            Resources możemy ustawić gdzie chcemy np w App.xaml w drzewku lecz tam usuwamy Window
+            resources i zmieniamy i pozostawiamy jako APLICATION RESOURCES !!   
+        
+    
+                PILNOWAĆ NAMESPACE !!!!!!!!!
+            
+    </Window.Resources>
+    -->
+    
+    
+    
+    <DockPanel x:Name="dockPanelTest" >
+       
+        <StackPanel Width="50">
+            <Button x:Name="Selection" Content="Select" Click="Selection_Click"/>
+            <Button x:Name="Drawing" Content="Draw" Click="Drawing_Click"/>
+
+
+        </StackPanel>
+        <InkCanvas x:Name="inkCanvas" EditingMode="{Binding Path=EditingMode, Source={StaticResource editingModes}}"></InkCanvas>
+        <!--Można też zmienić źródło bindingu za pomocą Source na przykład dla dynamicznego
+            wwtedy przy title można usunąć datacontext !! -->
+
+    </DockPanel>
+</Window>
